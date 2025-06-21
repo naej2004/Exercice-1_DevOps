@@ -12,17 +12,6 @@ Il permet d'ajouter des contacts manuellement et d'en rechercher un par son nom 
 
 ---
 
-## 📁 Structure du projet
-
-ContactManagerProject/
-│
-├── src/
-│ ├── Main.java
-│ ├── Contact.java
-│ └── ContactManager.java
-
-
----
 
 ## ⚙️ Prérequis
 
