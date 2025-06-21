@@ -1,6 +1,6 @@
 public class ContactManager {
     // Attributs
-    Contact [] myFriends;
+    Contact [] myFriends = new Contact[500];
     int friendsCount;
 
     // Methodes
