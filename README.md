@@ -23,7 +23,7 @@ Il permet d'ajouter des contacts manuellement et d'en rechercher un par son nom 
 
 ## 🚀 Instructions pour exécuter dans IntelliJ
 
-1. Ouvre **IntelliJ IDEA** et clique sur **"Open"** pour ouvrir le dossier `ContactManagerProject`.
+1. Ouvre **IntelliJ IDEA** et clique sur **"Open"** pour ouvrir le dossier `Exercice-01_DevOps`.
 2. Vérifie que le **JDK** est bien configuré (`File > Project Structure > SDKs`).
 3. Clique-droit sur `Main.java` > **Run 'Main.main()'**.
 4. Le programme affichera dans la console le numéro de téléphone du contact recherché (`Naej`).
